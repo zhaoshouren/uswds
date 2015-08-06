@@ -1,0 +1,42 @@
+
+.usa-layout2 {
+  @include clearfix;
+  height: 50rem;
+  position: relative;
+  width: 100%;
+
+  .usa-side_nav {
+    border-right: 1px solid $color-grey-200;
+    width: 30%;
+  }
+
+  .usa-main_content {
+    width: 70%;
+  }
+}
+
+.usa-side_nav {
+  float: left;
+  padding: 1rem 2.5rem;
+}
+
+.usa-main_content {
+  float: left;
+  padding: 1rem 4rem;
+}
+
+.usa-side_nav-full {
+  bottom: 0;
+  float: none;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.usa-main_content-full {
+  bottom: 0;
+  float: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
