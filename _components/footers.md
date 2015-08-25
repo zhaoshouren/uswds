@@ -94,7 +94,7 @@ title: Footers
           <address>
             <h3 class="usa-footer-contact-heading">Agency Contact Center</h3>
             <p>(800) CALL-GOVT</p>
-            <a href="mailto:javascript:void(0)">info@agency.gov</a>
+            <a href="mailto:info@agency.gov">info@agency.gov</a>
           </address>
         </div>
       </div>
@@ -169,7 +169,7 @@ title: Footers
           <address>
             <h3 class="usa-footer-contact-heading">Agency Contact Center</h3>
             <p>(800) CALL-GOVT</p>
-            <a href="mailto:javascript:void(0)">info@agency.gov</a>
+            <a href="mailto:info@agency.gov">info@agency.gov</a>
           </address>
         </div>
       </div>
@@ -204,7 +204,7 @@ title: Footers
           <p>(800) CALL-GOVT</p>
         </div>
         <div class="usa-width-one-sixth usa-footer-primary-content">
-          <a href="mailto:javascript:void(0)">info@agency.gov</a>
+          <a href="mailto:info@agency.gov">info@agency.gov</a>
         </div>          
       </div>
     </div>
