@@ -46,7 +46,8 @@ order: 01
 <p class="usa-text-small">Info about what files to expect when you download.</p>
 
 <h3 class="usa-heading" id="pairings">Pairings + Styles</h3>
-<p>Guidance/overview on how our font packages were designed, etc. Something about load performance consideration and how we recommend one of the following font pages for use. A bit on the rationale for the pairings if it’s not covered an above section.</p>
+<p>To support both more contemporary and more traditional web design aesthetics, this font system offers recommended font pairings. Each pairing includes web hierarchy guidance on font family, weight, size, and spacing which express either more modern or more classical type design.</p>
+<p>Note: Some pairings require more font weights than others. While this allows more typographic expression, the use of four or more font weights will have a negative impact on page load performance. Find the balance that works for your product.</p>
 
 <h4 class="usa-heading">Credible and warm</h4>
 <div class="usa-accordion-bordered usa-typography-example">
@@ -60,8 +61,9 @@ order: 01
 
         <div class="usa-grid">
           <div class="usa-width-two-thirds">
-            <p>Overview of this pairing. Explain design decision and recommended use. Indicate this is the font pairing that comes with the framework download and used on this site.</p>
-            <p>Overview of this pairing. Explain design decision and recommended use. More explaining design decision and recommended use. And here are the fonts included:</p>
+            <p>A simple serif and sans serif combination designed to communicate warmth and credibility. Strong Merriweather heading weights offer clear information hierarchy and when paired with Source Sans Pro’s easy-to-read body text, creates a clean and professional feel.</p>
+            <p>This is pairing is included in the Web Design Standards framework.</p>
+            <p>Recommended applications: digital services that feature forms; basic and text heavy sites.</p>
             <ul>
               <li>1. Merriweather Bold 700</li>
               <li>2. Source Sans Pro Regular 400</li>
@@ -71,7 +73,8 @@ order: 01
           </div>
           <aside class="usa-width-one-third usa-end-row">
             <h6 class="usa-heading-alt">Page Performance</h6>
-            <img src="{{ site.baseurl }}/assets/img/page-performance.jpg">
+            <span class="usa-label-big">High Performance</span>
+            <p>Ideal number of fonts. Will allow for optimal page load performance.</p>
             <h6 class="usa-heading-alt">Examples</h6>
             <ul>
               <li>
