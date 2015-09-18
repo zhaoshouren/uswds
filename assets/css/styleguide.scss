@@ -325,14 +325,26 @@ $site-top:           124px;
     top: 2em;
     bottom: 2em;
   }
-  padding: $site-margins;
+  padding: 0 $site-margins $site-margins;
   border: 1px solid #eeeeee;
   .is-peripheral {
     opacity: .2;
   }
 
-  h6:first-child {
-    margin-top: 0;
+  fieldset,
+  h6:first-child,
+  h6.usa-heading-alt:first-child {
+    margin-top: 3rem;
+  }
+
+  ul,
+  ol {
+    margin-bottom: 0;
+  }
+
+  > a {
+    margin-top: 3rem;
+    display: inline-block;
   }
 }
 
@@ -840,7 +852,7 @@ h3 + .button_wrapper {
   padding-bottom: .8rem;
 }
 
-h6.usa-heading-alt {
+h6, h6.usa-heading-alt {
   margin-top: 4rem;
 }
 
