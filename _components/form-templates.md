@@ -24,7 +24,7 @@ lead: Patterns for some of the most commonly used forms on government websites
 
 <div class="preview">
 
-  <form>
+  <form class="styleguide">
     <fieldset>
       <legend>Name</legend>
       <label for="title">Title</label>
@@ -81,7 +81,7 @@ lead: Patterns for some of the most commonly used forms on government websites
 
 <div class="preview">
 
-  <form class="usa-form-large">
+  <form class="usa-form-large styleguide">
     <fieldset>
       <legend>Mailing address</legend>
       <label for="mailing-address-1">Street address 1</label>
@@ -202,7 +202,7 @@ lead: Patterns for some of the most commonly used forms on government websites
 
 <div class="preview">
 
-  <form>
+  <form class="styleguide">
     <fieldset>
       <legend class="usa-drop_text">Sign in</legend>
       <span>or <a href="javascript:void(0)">create an account</a></span>
@@ -270,7 +270,7 @@ lead: Patterns for some of the most commonly used forms on government websites
 
 <div class="preview">
   
-  <form>
+  <form class="styleguide">
     <fieldset>
       <legend class="usa-drop_text">Reset password</legend>
       <span class="usa-serif">Please enter your new password</span>
