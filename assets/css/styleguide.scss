@@ -322,8 +322,8 @@ $site-top:           124px;
   @include clearfix();
   background-color: #fff;
   margin: {
-    top: 2em;
     bottom: 2em;
+    top: 2em;
   }
   padding: 0 $site-margins $site-margins;
   border: 1px solid #eeeeee;
@@ -351,8 +351,8 @@ $site-top:           124px;
 .preview-no_border {
   border: 0;
   margin: {
-    top: 0;
     bottom: 2em;
+    top: 0;
   }
   padding: 0;
 }
