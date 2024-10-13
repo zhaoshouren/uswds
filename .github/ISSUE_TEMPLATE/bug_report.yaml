@@ -1,7 +1,7 @@
 name: Bug Report 🐞
 description: Report a bug and help USWDS improve.
 title: "USWDS - Bug: [YOUR TITLE]"
-labels: ['Type: Bug','Status: Triage','Needs: Confirmation']
+labels: ['Type: Bug','Needs: Confirmation']
 body:
   - type: textarea
     id: problem
@@ -14,7 +14,7 @@ body:
     id: reproduce
     attributes:
       label: Steps to reproduce the bug
-      description: Describe how to reproduce this issue.
+      description: Describe how to reproduce this issue. If the issue is found only in your project, provide a link to a public repo or code preview that demonstrates this issue.
       placeholder: |
         1. Go to '...'
         2. Click on '....'

@@ -10,9 +10,11 @@
   border-radius: 0;
   box-shadow: none;
   font-weight: font-weight("normal");
+  justify-content: normal;
+  text-align: left;
   margin: 0;
   padding: 0;
-  text-align: left;
+  width: auto;
 
   &:hover,
   &.usa-button--hover,
@@ -51,7 +53,7 @@
   &:disabled:hover,
   &[aria-disabled="true"]:hover,
   &[aria-disabled="true"]:focus {
-    color: color($theme-color-disabled-text);
+    color: color("disabled");
 
     @media (forced-colors: active) {
       color: color(GrayText);
